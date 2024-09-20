@@ -44,7 +44,9 @@ $ streamlit run runner.py
 
 ## 실행 화면 예시
 - 렌트카 업체별 국내 모든 영업소의 자동차 총 보유 대수 비교 (4사 (SK, 쏘카, 그린카, 롯데렌탈) + 기타 업체)
-
+![img1](https://github.com/user-attachments/assets/2a75d7a8-9d18-48a1-b0c0-ec28db86db46)
 - GPS를 이용한 주요 렌터카 업체 및 보유 수 비교 SK렌터카, 쏘카, 그린카
-
+![img2](https://github.com/user-attachments/assets/da53858b-a420-4562-a559-2b7e64bc6fdb)
 - FAQ 시스템
+![img3](https://github.com/user-attachments/assets/8ae5e7d3-bdb8-4a27-ac12-a2b751927fdf)
+
